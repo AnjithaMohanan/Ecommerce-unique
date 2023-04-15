@@ -1,4 +1,4 @@
-import express  from "express";
+import {Express}  from "express";
 import path  from "path";
 //import data from "./data.js";
 import mongoose from "mongoose";
